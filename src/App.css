@@ -1,5 +1,22 @@
 .banner {
     height: 33.33vh;
+    font-size: 32px;
+    color: #fff;
+    font-weight: 900;
+    text-align: center;
+    background-color: #00f;
 
-    background-color: #00f 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    height: 33.33vh;
+    font-size: 32px;
+    color: #000;
+    font-weight: 900;
+    text-align: center;
+    background-color: rgb(255, 9, 243) 
+
 }
